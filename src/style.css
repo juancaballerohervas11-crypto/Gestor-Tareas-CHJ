@@ -1,0 +1,9 @@
+.titulo {
+  font-family: system-ui, sans-serif;
+  color: #2563eb;
+}
+
+.completada {
+  text-decoration: line-through;
+  opacity: 0.6;
+}
